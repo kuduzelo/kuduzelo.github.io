@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://kuduzelo.github.io/sitemap/sitemap_index.kuduzelo
+Sitemap: https://kuduzelo.github.io/qot/sitemap_index.kuduzelo
+Sitemap: https://kuduzelo.github.io/foD/sitemap_index.kuduzelo
+Sitemap: https://kuduzelo.github.io/Lbv/sitemap_index.kuduzelo
+Sitemap: https://kuduzelo.github.io/tDI/sitemap_index.kuduzelo
+Sitemap: https://kuduzelo.github.io/riW/sitemap_index.kuduzelo
+Sitemap: https://kuduzelo.github.io/TBf/sitemap_index.kuduzelo
+Sitemap: https://kuduzelo.github.io/xNb/sitemap_index.kuduzelo
+Sitemap: https://kuduzelo.github.io/RdZ/sitemap_index.kuduzelo
+Sitemap: https://kuduzelo.github.io/pTa/sitemap_index.kuduzelo
+Sitemap: https://kuduzelo.github.io/kan/sitemap_index.kuduzelo
+Sitemap: https://kuduzelo.github.io/oqJ/sitemap_index.kuduzelo
+Sitemap: https://kuduzelo.github.io/djb/sitemap_index.kuduzelo
+Sitemap: https://kuduzelo.github.io/JnO/sitemap_index.kuduzelo
+Sitemap: https://kuduzelo.github.io/Aag/sitemap_index.kuduzelo
+Sitemap: https://kuduzelo.github.io/hOB/sitemap_index.kuduzelo
+Sitemap: https://kuduzelo.github.io/REB/sitemap_index.kuduzelo
+Sitemap: https://kuduzelo.github.io/onY/sitemap_index.kuduzelo
+Sitemap: https://kuduzelo.github.io/hgQ/sitemap_index.kuduzelo
+Sitemap: https://kuduzelo.github.io/GUR/sitemap_index.kuduzelo
+Sitemap: https://kuduzelo.github.io/yMa/sitemap_index.kuduzelo
